@@ -49,6 +49,7 @@
 
 ## Why aren't more schools teaching cyber?
 - Access to resources are inconsistent
+- Low
 
 ## Untapped potential in young children, particularly young girls
 
