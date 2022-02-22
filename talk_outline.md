@@ -28,7 +28,7 @@
 ## How do we close this gap?
 - Proportionate representation of women
 - Currently:
-  - 76% of field is male (isc2)
+  - 76% of field is male, ~24% female (isc2)
   -  Improvements made since 2013 where only 11% of research participants were women
   -  However women are still outnumbered 3 to 1 
   
@@ -42,7 +42,10 @@
 - 45% of school educators surveyd by cyber.org say their students are learning about cyber topics
 - Same survey reports that most cyber education focuses around basic digital literacy and cyber bullying
   - great topics, but typically not substantial enough to get people interested in cyber security
-- 13% of high school educators say there are cybersecurity competitions available to their students while only 4% for elementary aged children 
+- 13% of high school educators say there are cybersecurity competitions available to their students while only 9% and 4% for middle and elementary aged children respectively (cyber.org)
+- 71% of respondents reported at least a medium interest in cyber sec from their students who participated in extracurriculars and 64% reported at least a medium interest from those who participated in competitions relating to the subject (cyber.org)
+- Education drives interest: 
+  - Ex: 65% of students who learned about robotics in class were interested in learning more about it; whereas only 35% of students who did not learn about robotics in class wanted to learn more (cyber.org)
 
 ## Why aren't more schools teaching cyber?
 - Access to resources are inconsistent
