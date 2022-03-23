@@ -66,4 +66,5 @@
 - Get Involved in local schools and universities – offer to educate teachers on grade-level appropriate cyber security concepts; give a talk at a local university; use your company platform to donate resources or time to the areas that need it most. 
 - Host a cyber competition or camp – it's not as hard as you may think to host a competition or camp. Hour of code, CTF’s, and TryHackMe challenges are all easy ways to get children excited about cyber and computers.  
 - Mentor young people - mentorships are important for children, teens, and young adults. It gives students a role model to follow and ask questions to.  
+  - 30% of respondents believe providing mentorship and support will help diversify the field (Isc2)
 - The take away: Invest in students now because they will become the next generation of employees, innovators, and security experts. 
